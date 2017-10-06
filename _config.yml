@@ -2,9 +2,11 @@ name: barfly.ai
 github.url: https://owen9825.github.io/barfly.ai/
 description: We connect bars with good data on their patrons for better decisions
 baseurl : ''
+locale: "en-US"
+url: barfly.ai
 
 permalink: /:title/
 paginate: 100
 
-plugins: [jekyll-paginate, jekyll-bower, s3_website]
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'bower.json', 'node_modules', 'package.json']
+plugins: [jekyll-paginate, jekyll-bower, jekyll-sitemap]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'bower.json', 'node_modules', 'package.json', '*.patch', '*.csv']
