@@ -9,4 +9,3 @@ We all want a bar like _Cheers_, where everybody knows your name – it's good 
 When people visit your bar, they're sharing a lot of information with you. We collect those insights and share them with you to make any changes that can improve your business.
 
 > *Tell me what you eat and I will tell you what you are* − Jean Anthelme Brillat-Savarin
-
