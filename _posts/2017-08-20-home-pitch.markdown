@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How well do you know your patrons?"
+title:  "Can you keep track of your customers?"
 date:   2013-06-05 20:33:11
 ---
 
